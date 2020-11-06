@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ATC2on4/ZbuBRrdof0/Q0o0A6dItafTNwWl6v4B2uiLSK62MlabdBEtsXnlfqEb+yCYR5ZsNgVxTV1b4M5RCxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amerculov\\OneDrive - ENDAVA\\Documents\\REPO\\Task\\Solid\\Solid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amerculov\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Amerculov\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Amerculov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Amerculov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
